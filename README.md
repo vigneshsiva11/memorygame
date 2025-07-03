@@ -21,7 +21,7 @@ A simple and fun **Memory Matching Game** built using **HTML**, **CSS**, and **J
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/memory-game.git
+   git clone https://github.com/vigneshsiva11/memory-game.git
    ```
 
 2. Open `index.html` in your browser:
