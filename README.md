@@ -30,17 +30,3 @@ A simple and fun **Memory Matching Game** built using **HTML**, **CSS**, and **J
    cd memory-game
    open index.html
    ```
-
-> No build tools or frameworks required — it's all pure front-end!
-
-## 📸 Screenshot
-
-![Memory Game Preview](screenshot.png)
-
-## 📃 License
-
-This project is open-source and free to use under the [MIT License](LICENSE).
-
----
-
-Let me know if you'd like to add a [live demo link](f), [custom favicon](f), or [difficulty levels](f) to the game!
